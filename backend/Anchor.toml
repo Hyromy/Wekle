@@ -10,7 +10,7 @@ skip-lint = false
 backend = "28ckb9primXrZtbGpM2umYscwGskZGEmPnhKAfmuHW32"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "~/.config/solana/id.json"
 
 [scripts]

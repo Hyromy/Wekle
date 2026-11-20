@@ -1,5 +1,4 @@
-pub mod initialize;
-pub mod increment;
+// This file is just and index to lib.rs
 
-pub use initialize::*;
-pub use increment::*;
+pub mod event;
+pub use event::*;
